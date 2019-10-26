@@ -1,4 +1,4 @@
-                                                      # PwaDicodingFirstSubmission
+#                                                 PwaDicodingFirstSubmission
 
 <p align="center">
   <a href="http://materializecss.com/">
